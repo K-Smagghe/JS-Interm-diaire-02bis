@@ -1,1 +1,1 @@
-# JS-Interm-diaire-02bis
+JS Intermédiaire 02bis
